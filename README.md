@@ -1,6 +1,7 @@
 # Bar Chart with tooltips
 
-**d3.js** | **Using d3-tip to add tooltips to a d3 bar chart.** | **Contributors:** [Majid Farahani](https://github.com/Caged)
+**d3.js** | **Using d3-tip to add tooltips to a d3 bar chart.** | **Contributors:** 
+[Majid Farahani](https://farahanimajid.github.io/barchart/)
 
 ![](img/image.jpeg)
 
@@ -13,21 +14,17 @@ This simple bar chart is constructed from a csv file storing the
  shoe sizes, and animals. These categories are usually qualitative. Bars on the 
  chart may be arranged in any order.
  
-![](img/code.png)
-![](img/code2.png)
-![](img/code3.png)
-## 1\. Set up the workspace
+![](img/code.PNG)
+![](img/code2.PNG)
+![](img/code3.PNG)
 
-## 2\. Data Sources
-Oregon Ground water Level
 
-## 3\. A function-by-function Tutorial
+####  Ground water Level Umatila, Oregon
 
-- html
-- javascript
-- css
 
-#### 4\. More examples of similiar geovisualizations:
+
+
+####  More examples of similiar geovisualizations:
  [Bar chart by Mike Bostock](https://bl.ocks.org/mbostock/3885304)
  
  [Bar chart by Justin Palmer](http://bl.ocks.org/Caged/6476579)
